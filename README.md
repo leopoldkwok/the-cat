@@ -1,6 +1,6 @@
 #Atlas
 
-##Makers Academy Week 2 Test
+##Makers Academy Week 2 Challenge
 
 
 ###Aim
