@@ -19,4 +19,4 @@ The aim of the exercise is to create a folder with a country that's not in repo 
 
 ###Other details
 
-The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev) and Enrique Comba [@ecomba](https://github.com/ecomba)
+The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev) and Enrique Comba [@ecomba](https://github.com/ecomba) 
